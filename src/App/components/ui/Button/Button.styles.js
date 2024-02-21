@@ -13,5 +13,8 @@ const styles = StyleSheet.create({
     color: 'white',
     textDecorationLine: 'underline',
   },
+  rowView: {
+    flexDirection: 'row',
+  },
 });
 export default styles;

@@ -1,0 +1,104 @@
+{
+    "cars": [
+      {
+        "id": 0,
+        "imat": "bs-709-gx",
+        "couleur": "bleu",
+        "marque": "renault",
+        "model": "megane II",
+        "photo": "https://th.bing.com/th/id/R.249c24da93d2105b0dcec7540c73ce1b?rik=5PakK0TbFfTVJA&riu=http%3a%2f%2fwww.encyclautomobile.fr%2fweb%2f_encyclauto%2fcars%2f263%2fmegane_2_2_f1_b.jpg&ehk=KTbl96eayslV9INUj6ejTTghHZ7kVn6IIEc8M7rj1tw%3d&risl=&pid=ImgRaw&r=0",
+        "disponible": true,
+        "prix": 2000
+      },
+      {
+        "id": 1,
+        "imat": "bX-709-gx",
+        "couleur": "verte",
+        "marque": "renault",
+        "model": "megane II",
+        "photo": "https://th.bing.com/th/id/R.249c24da93d2105b0dcec7540c73ce1b?rik=5PakK0TbFfTVJA&riu=http%3a%2f%2fwww.encyclautomobile.fr%2fweb%2f_encyclauto%2fcars%2f263%2fmegane_2_2_f1_b.jpg&ehk=KTbl96eayslV9INUj6ejTTghHZ7kVn6IIEc8M7rj1tw%3d&risl=&pid=ImgRaw&r=0",
+        "disponible": true,
+        "prix": 2000
+      },
+      {
+        "id": 2,
+        "imat": "cs-709-gx",
+        "couleur": "rouge",
+        "marque": "citroen",
+        "model": "ds3",
+        "photo": "https://th.bing.com/th/id/R.00249594a98fba4d0b5a2f3157895cdd?rik=0GhMVggFAxUlvA&riu=http%3a%2f%2fcarlook.net%2fdata%2fdb_photos%2fcitroen%2fds3%2f1st%2fcitroen_ds3_1st_racing_hatchback3d-2262.jpg&ehk=AGQY0WMHAKYtPigZdwiqf04Z%2fAVuiFEmUVJQGKlceEU%3d&risl=&pid=ImgRaw&r=0",
+        "disponible": true,
+        "prix": 40000
+      },
+      {
+        "id": 3,
+        "imat": "ab-809-gx",
+        "couleur": "jaune",
+        "marque": "tesla",
+        "model": "model S",
+        "photo": "https://th.bing.com/th/id/R.00249594a98fba4d0b5a2f3157895cdd?rik=0GhMVggFAxUlvA&riu=http%3a%2f%2fcarlook.net%2fdata%2fdb_photos%2fcitroen%2fds3%2f1st%2fcitroen_ds3_1st_racing_hatchback3d-2262.jpg&ehk=AGQY0WMHAKYtPigZdwiqf04Z%2fAVuiFEmUVJQGKlceEU%3d&risl=&pid=ImgRaw&r=0",
+        "disponible": true,
+        "prix": 200000
+      },
+      {
+        "id": 4,
+        "imat": "Xy-809-gx",
+        "couleur": "gris/orange",
+        "marque": "citroen",
+        "model": "ds",
+        "photo": "https://th.bing.com/th/id/R.00249594a98fba4d0b5a2f3157895cdd?rik=0GhMVggFAxUlvA&riu=http%3a%2f%2fcarlook.net%2fdata%2fdb_photos%2fcitroen%2fds3%2f1st%2fcitroen_ds3_1st_racing_hatchback3d-2262.jpg&ehk=AGQY0WMHAKYtPigZdwiqf04Z%2fAVuiFEmUVJQGKlceEU%3d&risl=&pid=ImgRaw&r=0",
+        "disponible": true,
+        "prix": 200000
+      },
+      {
+        "id": 6,
+        "imat": "yy-809-gx",
+        "couleur": "gris/orange",
+        "marque": "citroen",
+        "model": "ds1",
+        "photo": null,
+        "disponible": true,
+        "prix": 200000
+      },
+      {
+        "id": 7,
+        "imat": "yy-809-gx",
+        "couleur": "gris/orange",
+        "marque": "citroen",
+        "model": "ds1",
+        "photo": null,
+        "disponible": true,
+        "prix": 200000
+      },
+      {
+        "id": 8,
+        "imat": "yy-809-gx",
+        "couleur": "gris/orange",
+        "marque": "citroen",
+        "model": "ds1",
+        "photo": null,
+        "disponible": true,
+        "prix": 200000
+      },
+      {
+        "id": 9,
+        "imat": "yy-809-gx",
+        "couleur": "gris/orange",
+        "marque": "citroen",
+        "model": "ds1",
+        "photo": null,
+        "disponible": true,
+        "prix": 200000
+      },
+      {
+        "id": 10,
+        "imat": "yy-809-gx",
+        "couleur": "gris/orange",
+        "marque": "citroen",
+        "model": "ds1",
+        "photo": null,
+        "disponible": true,
+        "prix": 200000
+      }
+    ]
+  }
